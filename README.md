@@ -5,6 +5,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MicheleGrav&hide_rank=true&theme=react&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrav&theme=react&show_icons=true&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrav&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ###
